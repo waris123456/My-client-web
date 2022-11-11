@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.c-bold-white-sizeBigger-navLogo{
+    font-weight: bolder;
+    color: white;
+    font-size: 22px;
+}
